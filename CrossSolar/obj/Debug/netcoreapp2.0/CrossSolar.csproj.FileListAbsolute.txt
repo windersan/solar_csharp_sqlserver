@@ -1,0 +1,11 @@
+C:\Users\devin\Documents\Visual Studio 2017\Projects\cross-solar-dotnet\CrossSolar\bin\Debug\netcoreapp2.0\CrossSolar.deps.json
+C:\Users\devin\Documents\Visual Studio 2017\Projects\cross-solar-dotnet\CrossSolar\bin\Debug\netcoreapp2.0\CrossSolar.runtimeconfig.json
+C:\Users\devin\Documents\Visual Studio 2017\Projects\cross-solar-dotnet\CrossSolar\bin\Debug\netcoreapp2.0\CrossSolar.runtimeconfig.dev.json
+C:\Users\devin\Documents\Visual Studio 2017\Projects\cross-solar-dotnet\CrossSolar\bin\Debug\netcoreapp2.0\CrossSolar.dll
+C:\Users\devin\Documents\Visual Studio 2017\Projects\cross-solar-dotnet\CrossSolar\bin\Debug\netcoreapp2.0\CrossSolar.pdb
+C:\Users\devin\Documents\Visual Studio 2017\Projects\cross-solar-dotnet\CrossSolar\obj\Debug\netcoreapp2.0\CrossSolar.csprojAssemblyReference.cache
+C:\Users\devin\Documents\Visual Studio 2017\Projects\cross-solar-dotnet\CrossSolar\obj\Debug\netcoreapp2.0\CrossSolar.csproj.CoreCompileInputs.cache
+C:\Users\devin\Documents\Visual Studio 2017\Projects\cross-solar-dotnet\CrossSolar\obj\Debug\netcoreapp2.0\CrossSolar.AssemblyInfoInputs.cache
+C:\Users\devin\Documents\Visual Studio 2017\Projects\cross-solar-dotnet\CrossSolar\obj\Debug\netcoreapp2.0\CrossSolar.AssemblyInfo.cs
+C:\Users\devin\Documents\Visual Studio 2017\Projects\cross-solar-dotnet\CrossSolar\obj\Debug\netcoreapp2.0\CrossSolar.dll
+C:\Users\devin\Documents\Visual Studio 2017\Projects\cross-solar-dotnet\CrossSolar\obj\Debug\netcoreapp2.0\CrossSolar.pdb
